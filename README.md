@@ -1,2 +1,2 @@
-# .github
-A description for the Astradal github organization
+# Astradal
+A geopol Minecraft server.
